@@ -14,4 +14,6 @@ Booking a table in the Little Lemon restaurant:
 2. Cretaing a a low-fidelity wirefarme in 4 pages:
    ![image](https://github.com/TKabakov/UX-UI/assets/114015277/d0cd3cd4-cb35-45f4-bd56-224811ffd5c9)
 
-3. 
+3. Creating a hi-fidelity prtotype:
+   ![image](https://github.com/TKabakov/UX-UI/assets/114015277/e8b60c8d-e914-41fc-9a98-6da0be4052fc)
+
