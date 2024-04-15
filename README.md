@@ -12,7 +12,7 @@ Booking a table in the Little Lemon restaurant:
    ![image](https://github.com/TKabakov/UX-UI/assets/114015277/fc74d205-00e9-4269-b3e2-6478b983f8d4)
 
 2. Creating a customer journey map:
-   ![image](https://github.com/TKabakov/UX-UI/assets/114015277/eac62ad8-f3d8-46a8-abd9-b0235d61ffdf)
+ ![image](https://github.com/TKabakov/UX-UI/assets/114015277/ec600f0e-90e6-4abc-8ec4-5f68d2654ad1)
 
 4. Cretaing a a low-fidelity wirefarme in 4 pages:
    ![image](https://github.com/TKabakov/UX-UI/assets/114015277/d0cd3cd4-cb35-45f4-bd56-224811ffd5c9)
