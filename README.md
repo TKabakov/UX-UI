@@ -11,4 +11,7 @@ Booking a table in the Little Lemon restaurant:
 1. Creating persona
    ![image](https://github.com/TKabakov/UX-UI/assets/114015277/fc74d205-00e9-4269-b3e2-6478b983f8d4)
 
-2. 
+2. Cretaing a a low-fidelity wirefarme in 4 pages:
+   ![image](https://github.com/TKabakov/UX-UI/assets/114015277/d0cd3cd4-cb35-45f4-bd56-224811ffd5c9)
+
+3. 
